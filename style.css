@@ -1,0 +1,13 @@
+body{
+    background-color:dimgray;
+}
+
+.title{
+    background-color:white;
+    margin-left: 30%;
+    margin-top: 3%;
+    width: 40%;
+    text-align: center;
+    color: brown;
+}
+
