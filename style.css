@@ -11,3 +11,17 @@ body{
     color: brown;
 }
 
+.table{
+    background-color: darkgray;
+    margin-left: 30%;
+    width: 40%;
+    margin-top: -0.57cm;
+}
+
+.center{
+    text-align: center;
+}
+
+.color{
+    color: brown;
+}
